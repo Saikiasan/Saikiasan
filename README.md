@@ -1,12 +1,12 @@
 # 💫 About Me:
-- 🔭 I’m currently working on ctctsk.in
+- 🔭 I’m currently working on Mastering Software Delivery
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on open-source/ paid projects
 - 🤔 I’m looking for help with financial problems
-- 💬 Ask me about almost anything 
-- 📫 How to reach me: Call me ?
+- 💬 Ask me about life?
+- 📫 How to reach me: Call me on +918257068226
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I don't upload all my work in here.
+- ⚡ Fun fact: I use anything that benefits me in a fast work.
 
 
 # 💻 Tech Stack:
